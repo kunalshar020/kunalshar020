@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Kunal 👋
 
-<!--
-**kunalshar020/kunalshar020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building web, mobile, backend, and cloud-native applications.
 
-Here are some ideas to get you started:
+**Stack:** React · React Native · TypeScript · Python · FastAPI · Go · Tauri · Tailwind · Docker · Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+
+[Email me](mailto:dev.kunalshar0@gmail.com)
+
+---
+
+<p align="center">
+  <i>Build. Ship. Improve.</i>
+</p>
